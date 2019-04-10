@@ -1,1 +1,1 @@
-Hello, Welcome to all!
+welcome to manual build
